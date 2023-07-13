@@ -1,4 +1,4 @@
-#include <stdio. h>
+#include < stdio.h >
 /**
  * main - Leo king of football
  * Return: 0(Sucess)
